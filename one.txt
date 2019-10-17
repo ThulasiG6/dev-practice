@@ -1,2 +1,6 @@
 git practice session
+<<<<<<< HEAD
 this is also test
+=======
+testing local and remote
+>>>>>>> 7891c124fc11946e4829ff766156eb34604974eb
