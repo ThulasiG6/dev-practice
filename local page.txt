@@ -5,3 +5,4 @@ to check fetch in local
 merge test in local
 reverse commit
 reset operation
+reset failed
