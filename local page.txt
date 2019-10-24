@@ -3,10 +3,7 @@ travel by bus
 to check pull in local
 to check fetch in local
 merge test in local
-<<<<<<< HEAD
 reverse commit
 reset operation
 reset failed
 new start
-=======
->>>>>>> 8b148836bbfe0efa70e71be6da734d70613294a6
