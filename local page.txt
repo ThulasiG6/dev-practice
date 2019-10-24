@@ -6,3 +6,4 @@ merge test in local
 reverse commit
 reset operation
 reset failed
+new start
