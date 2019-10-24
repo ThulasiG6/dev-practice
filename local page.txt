@@ -4,3 +4,4 @@ to check pull in local
 to check fetch in local
 merge test in local
 reverse commit
+reset operation
