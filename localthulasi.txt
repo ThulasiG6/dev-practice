@@ -5,3 +5,4 @@ commit id test
 mixed reset test
 new session
 test remote session
+reset test
