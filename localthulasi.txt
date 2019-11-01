@@ -3,3 +3,4 @@ first commit test
 second test
 commit id test
 mixed reset test
+new session
