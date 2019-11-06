@@ -10,3 +10,4 @@ soft reset
 mixed reset
 revert test
 soft reset
+revert test 2
