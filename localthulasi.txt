@@ -6,6 +6,10 @@ mixed reset test
 new session
 test remote session
 reset test
+<<<<<<< HEAD
 soft reset
 mixed reset
 revert test
+=======
+soft reset
+>>>>>>> parent of aeb18f3... mixed reset
