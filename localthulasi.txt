@@ -7,3 +7,4 @@ new session
 test remote session
 reset test
 soft reset
+mixed reset
