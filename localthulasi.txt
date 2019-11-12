@@ -14,3 +14,4 @@ soft reset
 revert test 2
 conflit test manual
 conflit test manual hub
+diffmerge test local
