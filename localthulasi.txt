@@ -16,3 +16,5 @@ conflit test manual
 conflit test manual hub
 diffmerge test local
 diffmerge test remote
+diff test
+diff test 2
