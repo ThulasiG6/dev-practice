@@ -14,5 +14,8 @@ soft reset
 revert test 2
 conflit test manual
 conflit test manual hub
+<<<<<<< HEAD
 diffmerge test local
+=======
 diffmerge test remote
+>>>>>>> f6d67085cce8681a8004a726ebf339bf3ea5440d
