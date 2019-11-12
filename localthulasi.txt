@@ -12,3 +12,4 @@ mixed reset
 revert test
 soft reset
 revert test 2
+conflit test manual
