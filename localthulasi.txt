@@ -19,3 +19,5 @@ diffmerge test remote
 diff test
 diff test 2
 Tag test 1
+stash test
+stash test 2
