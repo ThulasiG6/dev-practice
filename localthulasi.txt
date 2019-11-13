@@ -21,3 +21,4 @@ diff test 2
 Tag test 1
 stash test
 stash test 2
+stash test 3
