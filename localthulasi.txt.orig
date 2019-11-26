@@ -1,0 +1,28 @@
+creating localthulasi.txt again
+hello
+first commit test
+second test
+commit id test
+mixed reset test
+new session
+test remote session
+reset test
+soft reset
+mixed reset
+revert test
+soft reset
+revert test 2
+conflit test manual
+conflit test manual hub
+diffmerge test local
+diffmerge test remote
+diff test
+diff test 2
+Tag test 1
+stash test
+stash test 2
+<<<<<<< Updated upstream
+stash test 3
+=======
+stashtest 4
+>>>>>>> Stashed changes
